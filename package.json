@@ -1,0 +1,13 @@
+{
+  "name": "alvo-crawler",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}
